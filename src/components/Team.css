@@ -1,0 +1,26 @@
+.team-title {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  margin-top: 100px;
+}
+.org-chart {
+  margin-top: -40px;
+  margin-left: -10px;
+  width: 1500px;
+}
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .team-content {
+    display: none;
+  }
+}
+
+@media all and (min-width: 993px) and (max-width: 1367px) {
+  .org-chart {
+    margin-top: -40px;
+    margin-left: -20px;
+    width: 100vw;
+  }
+}

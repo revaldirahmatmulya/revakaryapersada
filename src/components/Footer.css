@@ -1,0 +1,102 @@
+.footer-wrap {
+  margin-top: 100px;
+  background-color: #364550;
+  height: 50vh;
+}
+.footer-content {
+  padding-top: 100px;
+  font-family: "Montserrat", sans-serif;
+}
+.cv-text {
+  color: #b4b4b4;
+}
+.footer-wrap li {
+  list-style-type: none;
+}
+.footer-content li a {
+  text-decoration: none;
+  color: rgb(116, 116, 116);
+}
+
+.list-unstyled li {
+  margin-bottom: 20px;
+}
+.contact-footer li {
+  margin-bottom: 30px;
+  color: rgb(184, 184, 184);
+}
+.footer-title {
+  font-weight: 700;
+  font-size: 20px;
+  color: aliceblue;
+}
+.social-media-group {
+  display: flex;
+  flex-direction: row;
+}
+.wa-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background-color: #323435;
+  border-radius: 7px;
+  transition: all 0.2s ease-in-out;
+}
+.ig-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background-color: #323435;
+  border-radius: 7px;
+  margin-left: 30px;
+  transition: all 0.2s ease-in-out;
+}
+.wa-img {
+  width: 40px;
+}
+.ig-img {
+  width: 40px;
+}
+
+.ig-wrapper:hover,
+.wa-wrapper:hover {
+  transform: scale(1.1);
+}
+.telp {
+  display: flex;
+  flex-direction: row;
+}
+
+.mail {
+  display: flex;
+  flex-direction: row;
+}
+.loc {
+  display: flex;
+  flex-direction: row;
+}
+.footer-content li a:hover {
+  color: whitesmoke;
+}
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .footer-wrap li {
+    list-style-type: none;
+  }
+  .footer-wrap {
+    height: 700px;
+    overflow-y: hidden;
+  }
+  .footer-content {
+    padding-top: 30px;
+  }
+  .social-media-group {
+    margin-bottom: 20px;
+  }
+}
+@media all and (min-width: 993px) and (max-width: 1367px) {
+  .footer-wrap {
+    height: 70vh;
+  }
+}

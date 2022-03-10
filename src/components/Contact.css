@@ -1,0 +1,28 @@
+.contact-section .text-start {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+/* .contact-section {
+  background-color: #92a9bd;
+} */
+
+.text-area-control {
+  resize: none;
+}
+.contact-img {
+  width: 470px;
+}
+
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .contact-img {
+    width: 100vw;
+    margin-left: -13px;
+  }
+  .form-section {
+    margin-top: 30px;
+  }
+  .contact-section {
+    margin-top: 30px;
+  }
+}

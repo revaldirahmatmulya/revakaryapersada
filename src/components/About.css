@@ -1,0 +1,52 @@
+.frame-about p {
+  font-size: larger;
+  font-weight: 600;
+}
+.text-start {
+  font-family: "Cormorant Garamond", serif;
+}
+.title-section-about {
+  text-transform: uppercase;
+  color: #739bbe;
+  font-size: 25px;
+  font-weight: 600;
+}
+.title-main-about {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.frame-about {
+  margin-top: 50px;
+}
+.content-wrap {
+  position: relative;
+}
+.about-img {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-left: -26px;
+  width: 52vw;
+  height: 100vh;
+}
+.text-content {
+  text-align: justify;
+  font-family: "Cormorant Garamond", serif;
+}
+
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .about-img {
+    width: 105vw;
+    height: auto;
+    position: initial;
+  }
+}
+@media all and (min-width: 993px) and (max-width: 1367px) {
+  .about-img {
+    width: 51.3vw;
+    height: 125vh;
+    position: initial;
+  }
+}

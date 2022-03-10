@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1980" height="1080" viewBox="0 0 1980 1080">
+  <defs>
+    <filter id="Rectangle_2" x="923" y="139" width="169" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="867" y="79" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-2" x="673" y="302" width="169" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="617" y="242" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-3" x="1173" y="302" width="169" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-3" x="1117" y="242" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-4" x="923" y="746" width="169" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-4" x="867" y="686" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-5" x="1459" y="686" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-5" x="627" y="746" width="169" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-6" x="571" y="686" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-6" x="923" y="501" width="169" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-7" x="867" y="441" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-7" x="1219" y="746" width="169" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-8" x="1163" y="686" width="280" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-9" x="1070" y="886" width="180" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-10" x="692" y="887" width="180" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-17"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-8" x="326" y="745" width="169" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-18"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-11" x="256" y="686" width="308" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-19"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-12" x="316" y="886" width="183" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-20"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1980" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1980" height="1080" fill="#fff"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(35 9)">
+      <g transform="matrix(1, 0, 0, 1, -35, -9)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-9" data-name="Rectangle 2" width="151" height="38" rx="14" transform="translate(925 141)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -35, -9)" filter="url(#Rectangle_1)">
+        <g id="Rectangle_1-13" data-name="Rectangle 1" transform="translate(875 87)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Wisnu_Nurhariadi_S.T." data-name="Wisnu Nurhariadi, S.T." transform="translate(860 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Wisnu Nurhariadi, S.T.</tspan></text>
+      <text id="Direktur" transform="translate(925.5 159.5)" fill="#fff" font-size="17" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Direktur</tspan></text>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(-215 172)">
+      <g transform="matrix(1, 0, 0, 1, 215, -172)" filter="url(#Rectangle_2-2)">
+        <rect id="Rectangle_2-10" data-name="Rectangle 2" width="151" height="46" rx="14" transform="translate(675 304)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 215, -172)" filter="url(#Rectangle_1-2)">
+        <g id="Rectangle_1-14" data-name="Rectangle 1" transform="translate(625 250)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Abdullah_Salmani_S.T." data-name="Abdullah Salmani, S.T." transform="translate(860 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Abdullah Salmani, S.T.</tspan></text>
+      <text id="Wakil_Direktur" data-name="Wakil
+Direktur" transform="translate(965.5 152)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-21.434" y="0">Wakil</tspan><tspan x="-32.43" y="16">Direktur</tspan></text>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(285 172)">
+      <g transform="matrix(1, 0, 0, 1, -285, -172)" filter="url(#Rectangle_2-3)">
+        <rect id="Rectangle_2-11" data-name="Rectangle 2" width="151" height="50" rx="14" transform="translate(1175 304)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -285, -172)" filter="url(#Rectangle_1-3)">
+        <g id="Rectangle_1-15" data-name="Rectangle 1" transform="translate(1125 250)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Revaldi_Rahmatmulya" data-name="Revaldi Rahmatmulya" transform="translate(860 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Revaldi Rahmatmulya</tspan></text>
+      <text id="Manajer_Administrasi" data-name="Manajer 
+Administrasi" transform="translate(965.5 154)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-30.608" y="0">Manajer </tspan><tspan x="-46.895" y="16">Administrasi</tspan></text>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(35 616)">
+      <g transform="matrix(1, 0, 0, 1, -35, -616)" filter="url(#Rectangle_2-4)">
+        <rect id="Rectangle_2-12" data-name="Rectangle 2" width="151" height="43" rx="14" transform="translate(925 748)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -35, -616)" filter="url(#Rectangle_1-4)">
+        <g id="Rectangle_1-16" data-name="Rectangle 1" transform="translate(875 694)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Fatkhullah_Efendi_S.T." data-name="Fatkhullah Efendi, S.T." transform="translate(860 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Fatkhullah Efendi, S.T.</tspan></text>
+      <text id="Tenaga_Ahli_M_E" data-name="Tenaga Ahli
+M / E" transform="translate(965 154)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-42.636" y="0">Tenaga Ahli</tspan><tspan x="-17.825" y="16">M / E</tspan></text>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(627 616)">
+      <g transform="matrix(1, 0, 0, 1, -627, -616)" filter="url(#Rectangle_1-5)">
+        <g id="Rectangle_1-17" data-name="Rectangle 1" transform="translate(1467 694)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Administrasi_Proyek" data-name="Administrasi Proyek" transform="translate(869 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Administrasi Proyek</tspan></text>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(-261 616)">
+      <g transform="matrix(1, 0, 0, 1, 261, -616)" filter="url(#Rectangle_2-5)">
+        <rect id="Rectangle_2-13" data-name="Rectangle 2" width="151" height="42" rx="14" transform="translate(629 748)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 261, -616)" filter="url(#Rectangle_1-6)">
+        <g id="Rectangle_1-18" data-name="Rectangle 1" transform="translate(579 694)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Tri_Juli_Ahmadin_S.T." data-name="Tri Juli Ahmadin, S.T." transform="translate(863 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Tri Juli Ahmadin, S.T.</tspan></text>
+      <text id="Tenaga_Ahli_Sipil" data-name="Tenaga Ahli
+Sipil" transform="translate(965.5 151)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-42.636" y="0">Tenaga Ahli</tspan><tspan x="-16.721" y="16">Sipil</tspan></text>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(35 371)">
+      <g transform="matrix(1, 0, 0, 1, -35, -371)" filter="url(#Rectangle_2-6)">
+        <rect id="Rectangle_2-14" data-name="Rectangle 2" width="151" height="43" rx="14" transform="translate(925 503)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -35, -371)" filter="url(#Rectangle_1-7)">
+        <g id="Rectangle_1-19" data-name="Rectangle 1" transform="translate(875 449)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Oni_Herdianto_S.T._M.T." data-name="Oni Herdianto, S.T., M.T." transform="translate(853 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Oni Herdianto, S.T., M.T.</tspan></text>
+      <text id="Manajer_Teknis" data-name="Manajer
+Teknis" transform="translate(965 152.5)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-28.858" y="0">Manajer</tspan><tspan x="-24.281" y="16">Teknis</tspan></text>
+    </g>
+    <g id="Group_20" data-name="Group 20" transform="translate(331 616)">
+      <g transform="matrix(1, 0, 0, 1, -331, -616)" filter="url(#Rectangle_2-7)">
+        <rect id="Rectangle_2-15" data-name="Rectangle 2" width="151" height="43" rx="14" transform="translate(1221 748)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -331, -616)" filter="url(#Rectangle_1-8)">
+        <g id="Rectangle_1-20" data-name="Rectangle 1" transform="translate(1171 694)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="250" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="249.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Didik_Hendro_S.T." data-name="Didik Hendro, S.T." transform="translate(880 115)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Didik Hendro, S.T.</tspan></text>
+      <text id="Tenaga_Ahli_Plumbing" data-name="Tenaga Ahli
+Plumbing" transform="translate(965.5 152.5)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-42.636" y="0">Tenaga Ahli</tspan><tspan x="-34.504" y="16">Plumbing</tspan></text>
+    </g>
+    <g id="Group_26" data-name="Group 26" transform="translate(10 9)">
+      <g transform="matrix(1, 0, 0, 1, -10, -9)" filter="url(#Rectangle_1-9)">
+        <g id="Rectangle_1-21" data-name="Rectangle 1" transform="translate(1078 894)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="150" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="149.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Pengawas" transform="translate(1098 918)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Pengawas</tspan></text>
+    </g>
+    <g id="Group_22" data-name="Group 22" transform="translate(-154 816)">
+      <g transform="matrix(1, 0, 0, 1, 154, -816)" filter="url(#Rectangle_1-10)">
+        <g id="Rectangle_1-22" data-name="Rectangle 1" transform="translate(700 895)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="150" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="149.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Drafter" transform="translate(895 116)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Drafter</tspan></text>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(-562 615)">
+      <g transform="matrix(1, 0, 0, 1, 562, -615)" filter="url(#Rectangle_2-8)">
+        <rect id="Rectangle_2-16" data-name="Rectangle 2" width="151" height="46" rx="14" transform="translate(328 747)" fill="#92a9bd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 562, -615)" filter="url(#Rectangle_1-11)">
+        <g id="Rectangle_1-23" data-name="Rectangle 1" transform="translate(264 694)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="278" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="277.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Daniel_Irman_Soebagio_S.T." data-name="Daniel Irman Soebagio, S.T." transform="translate(840 116)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Daniel Irman Soebagio, S.T.</tspan></text>
+      <text id="Tenaga_Ahli_Arsitektur" data-name="Tenaga Ahli
+Arsitektur" transform="translate(965.5 154.5)" fill="#fff" font-size="14" font-family="CooperBlack, Cooper"><tspan x="-42.636" y="0">Tenaga Ahli</tspan><tspan x="-39.177" y="16">Arsitektur</tspan></text>
+    </g>
+    <g id="Group_24" data-name="Group 24" transform="translate(-563 815)">
+      <g transform="matrix(1, 0, 0, 1, 563, -815)" filter="url(#Rectangle_1-12)">
+        <g id="Rectangle_1-24" data-name="Rectangle 1" transform="translate(324 894)" fill="#d3dedc" stroke="#000" stroke-width="0.3">
+          <rect width="153" height="60" rx="30" stroke="none"/>
+          <rect x="0.15" y="0.15" width="152.7" height="59.7" rx="29.85" fill="none"/>
+        </g>
+      </g>
+      <text id="Estimator" transform="translate(918 116)" fill="#707070" font-size="18" font-family="CooperBlack, Cooper"><tspan x="0" y="0">Estimator</tspan></text>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(10 9)">
+      <line id="Line_1" data-name="Line 1" y2="270" transform="translate(990.5 170.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" x2="125" transform="translate(865.5 270.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_3" data-name="Line 3" x1="125" transform="translate(990.5 270.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_4" data-name="Line 4" y1="149" transform="translate(990.5 536.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_5" data-name="Line 5" y1="76" transform="translate(694.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_6" data-name="Line 6" x1="296" transform="translate(694.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <path id="Path_1" data-name="Path 1" d="M0,76" transform="translate(398.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_8" data-name="Line 8" x1="296" transform="translate(398.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_9" data-name="Line 9" y1="76" transform="translate(1286.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_10" data-name="Line 10" x2="296" transform="translate(990.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_11" data-name="Line 11" y1="76" transform="translate(1582.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_12" data-name="Line 12" x2="296" transform="translate(1286.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_13" data-name="Line 13" y1="49" transform="translate(767.5 835.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_14" data-name="Line 14" y1="49" transform="translate(392.5 835.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_16" data-name="Line 16" y2="52" transform="translate(392.5 783.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_17" data-name="Line 17" y2="55" transform="translate(694.5 780.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_18" data-name="Line 18" y2="54" transform="translate(990.5 781.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_19" data-name="Line 19" y2="54" transform="translate(1286.5 781.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_20" data-name="Line 20" y1="49" transform="translate(1143.5 835.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_21" data-name="Line 21" x2="592" transform="translate(694.5 835.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_22" data-name="Line 22" x2="302" transform="translate(392.5 835.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_23" data-name="Line 23" y1="76" transform="translate(392.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+      <line id="Line_24" data-name="Line 24" x1="6" transform="translate(392.5 609.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

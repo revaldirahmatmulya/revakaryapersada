@@ -1,0 +1,52 @@
+.visi-text {
+  margin-top: 100px;
+}
+
+.img-visi {
+  width: 50vw;
+  height: 100vh;
+}
+
+.title-visi,
+.title-misi {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.title-section-visi {
+  text-transform: uppercase;
+  color: #739bbe;
+  font-size: 25px;
+  font-weight: 600;
+}
+.title-main-visi {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.frame-visi li {
+  font-size: larger;
+  font-weight: 600;
+}
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .img-visi {
+    width: 100vw;
+    height: auto;
+    margin-left: -13px;
+  }
+
+  .visi-content {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+@media all and (min-width: 993px) and (max-width: 1367px) {
+  .visi-text {
+    margin-top: initial;
+  }
+  .title-section-visi {
+    margin-top: 20px;
+  }
+}

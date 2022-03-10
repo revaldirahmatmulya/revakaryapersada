@@ -1,0 +1,110 @@
+/* .services-bg {
+  background-color: aliceblue;
+  height: 100vh;
+} */
+/* .line-services {
+  border-top: solid 4px #000000;
+  width: 70px;
+  margin-top: -20px;
+  position: relative;
+  left: 48.4%;
+} */
+.title-section-services {
+  color: #000000;
+
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  font-family: "Cormorant Garamond", serif;
+}
+.data-card {
+  overflow: hidden;
+  width: auto;
+  height: 650px;
+  border-radius: 30px;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  margin: 1em;
+  padding: 2.75em 2em;
+  box-shadow: 0 1.5em 2.5em 0.5em rgba(0, 0, 0, 0.1);
+  transition: transform 0.45s ease, background 0.45s ease;
+}
+.data-card .card-title {
+  color: #627084;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 1;
+  padding-bottom: 0.5em;
+  margin: 0 0 0.142857143em;
+  border-bottom: 2px solid #92a9bd;
+  transition: color 0.45s ease, border 0.45s ease;
+}
+.data-card .card-subtitle {
+  color: #627084;
+  text-transform: uppercase;
+  font-size: 1.125em;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.1em;
+  margin: 0 0 1.777777778em;
+  transition: color 0.45s ease;
+}
+.data-card .card-item {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  line-height: 1.8;
+  margin-top: 60px;
+  transform: translateY(-1em);
+  transition: opacity 0.45s ease, transform 0.5s ease;
+}
+
+.data-card:hover {
+  background: #7c99ac;
+  transform: scale(1.02);
+}
+.data-card:hover .card-title {
+  color: #fff;
+  border-bottom-color: #2c76a7;
+}
+.data-card:hover .card-subtitle {
+  color: #fff;
+}
+.data-card:hover .card-item {
+  opacity: 1;
+  transform: none;
+  color: #fff;
+}
+.data-card:hover .link-text {
+  color: #fff;
+}
+
+@keyframes point {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(0.125em);
+  }
+}
+
+@media all and (min-width: 375px) and (max-width: 992px) {
+  .data-card {
+    padding: 10px;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  .data-card .card-title {
+    font-size: 30px;
+  }
+  .data-card .card-item {
+    font-size: 16px;
+  }
+}
+@media all and (min-width: 993px) and (max-width: 1367px) {
+  .data-card .card-item {
+    font-size: 18px;
+  }
+}

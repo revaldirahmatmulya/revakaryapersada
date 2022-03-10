@@ -1,0 +1,24 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.brand-logo {
+  height: 3.5rem;
+}
+.brand-top {
+  color: #7c99ac;
+  font-weight: 700;
+}
+.brand-bot {
+  margin-top: -5px;
+  color: rgb(255, 56, 56);
+  font-weight: 400;
+}
+.brand-text h4 {
+  font-size: 20px;
+}
+
+@media all and (min-width: 360px) and (max-width: 992px) {
+  .brand-text {
+    display: none;
+  }
+}
