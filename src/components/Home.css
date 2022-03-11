@@ -115,6 +115,12 @@ body {
     box-shadow: 10px 10px #9c9c9c;
   }
 }
+.link-cv {
+  color: #9c9c9c;
+}
+.link-cv:hover {
+  color: aliceblue;
+}
 
 @media all and (min-width: 993px) and (max-width: 1367px) {
   .img-main {
