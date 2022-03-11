@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "52c7ec5b7217ae897da4",
-    "url": "/revakaryapersada/static/css/main.ee1c9a06.chunk.css"
+    "revision": "dacfed10543ba56e69f1",
+    "url": "/revakaryapersada/static/css/main.3c85d5d5.chunk.css"
   },
   {
-    "revision": "52c7ec5b7217ae897da4",
-    "url": "/revakaryapersada/static/js/main.52c7ec5b.chunk.js"
+    "revision": "dacfed10543ba56e69f1",
+    "url": "/revakaryapersada/static/js/main.dacfed10.chunk.js"
   },
   {
     "revision": "cd474f2dcda6b2605ecf",
     "url": "/revakaryapersada/static/js/1.cd474f2d.chunk.js"
   },
   {
-    "revision": "8d02d5ca0f2ef8dace78",
+    "revision": "fc30740c142b968f7b0c",
     "url": "/revakaryapersada/static/css/2.0f345be4.chunk.css"
   },
   {
-    "revision": "8d02d5ca0f2ef8dace78",
-    "url": "/revakaryapersada/static/js/2.8d02d5ca.chunk.js"
+    "revision": "fc30740c142b968f7b0c",
+    "url": "/revakaryapersada/static/js/2.fc30740c.chunk.js"
   },
   {
     "revision": "f5f068d560de8b1f57eb",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/revakaryapersada/static/media/hero-2.6215e42d.jpg"
   },
   {
-    "revision": "c76e77d63df4d214241217772df15067",
+    "revision": "1cfbe1aa045f8671a9eab88c19e56b62",
     "url": "/revakaryapersada/index.html"
   }
 ];
