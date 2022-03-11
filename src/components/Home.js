@@ -32,11 +32,14 @@ const Home = () => {
               </h4>
               <Button
                 as={Link}
-                to={"/about"}
+                to={
+                  "https://drive.google.com/file/d/1FfGW_eCrVCF6N7F14JGzQxaWrhzBfT6d/view?usp=sharing"
+                }
                 variant="outline-secondary"
                 className="mt-4 d-flex align-items-start btn-hero btn-lg btn-home"
+                target="_blank"
               >
-                Selengkapnya
+                Download CV
               </Button>{" "}
             </div>
           </div>
