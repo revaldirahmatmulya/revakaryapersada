@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dacfed10543ba56e69f1",
+    "revision": "b3b6e8c76745f41c33dd",
     "url": "/revakaryapersada/static/css/main.3c85d5d5.chunk.css"
   },
   {
-    "revision": "dacfed10543ba56e69f1",
-    "url": "/revakaryapersada/static/js/main.dacfed10.chunk.js"
+    "revision": "b3b6e8c76745f41c33dd",
+    "url": "/revakaryapersada/static/js/main.b3b6e8c7.chunk.js"
   },
   {
     "revision": "cd474f2dcda6b2605ecf",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/revakaryapersada/static/media/hero-2.6215e42d.jpg"
   },
   {
-    "revision": "1cfbe1aa045f8671a9eab88c19e56b62",
+    "revision": "f38736eccba1efcdc8f6bec088b31156",
     "url": "/revakaryapersada/index.html"
   }
 ];
