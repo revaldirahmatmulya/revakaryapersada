@@ -3,14 +3,14 @@ import "./Contact.css";
 import contactImg from "../assets/contact-img.jpg";
 import { Alert as alr } from "bootstrap";
 
-const scriptURL =
-  "https://script.google.com/macros/s/AKfycbw2sncUii51zueHHAyeYKmgJu9TFGJ7gAm7fj7xHfNCsIRmJPAiuCnq-a8ou4_R_9Gvwg/exec";
-const form = document.forms["contact-form"];
-const btnSend = document.querySelector(".btn-Send");
-const btnLoading = document.querySelector(".btn-Loading");
-const Alert = document.querySelector(".my-alert");
 const submitForm = (e) => {
   e.preventDefault();
+  const scriptURL =
+    "https://script.google.com/macros/s/AKfycbw2sncUii51zueHHAyeYKmgJu9TFGJ7gAm7fj7xHfNCsIRmJPAiuCnq-a8ou4_R_9Gvwg/exec";
+  const form = document.forms["contact-form"];
+  const btnSend = document.querySelector(".btn-Send");
+  const btnLoading = document.querySelector(".btn-Loading");
+  const Alert = document.querySelector(".my-alert");
   btnLoading.classList.toggle("d-none");
   btnSend.classList.toggle("d-none");
   fetch(scriptURL, { method: "POST", body: new FormData(form) })
@@ -64,8 +64,9 @@ const Contact = () => {
                   className="my-alert d-none alert alert-success alert-dismissible fade show"
                   role="alert"
                 >
-                  <strong>Thank You!</strong> I will read and respon your email
-                  as soon as possible.
+                  <strong>Thank You!</strong> I will read and respon your
+                  message as soon as possible.Please refresh the page if you
+                  want to send another message.
                   <button
                     type="button"
                     className="btn-close"
